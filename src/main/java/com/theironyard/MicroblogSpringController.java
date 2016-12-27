@@ -56,4 +56,5 @@ public class MicroblogSpringController {
         return "redirect:/";
     }
 
+
 }//end class MicroblogSpringController
